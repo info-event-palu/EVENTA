@@ -3,10 +3,10 @@
 Dokumentasi awal proyek.
 
 ## 📌 ERD Sistem Info Event Palu
-![ERD Sistem](docs/diagram/ERD.png)
+![ERD Sistem](docs/diagram/ERD.jpg)
 
 ## 📌 USE CASE
-![DFD Level 0](docs/diagram/USE_CASE.png)
+![DFD Level 0](docs/diagram/USE_CASE.jpg)
 
 
 
