@@ -6,7 +6,7 @@ Dokumentasi awal proyek.
 ![ERD Sistem](docs/diagram/ERD.jpg)
 
 ## 📌 USE CASE
-![DFD Level 0](docs/diagram/USE_CASE.jpg)
+![USE_CASE](docs/diagram/USE_CASE.jpg)
 
 
 
