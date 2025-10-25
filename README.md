@@ -1,4 +1,4 @@
-# EVENTA # Info Event Palu
+# EVENTA
 
 Dokumentasi awal proyek.
 
