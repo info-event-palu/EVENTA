@@ -32,9 +32,9 @@ Sistem berjalan sebagai aplikasi web dan dapat diakses melalui perangkat desktop
 
 | Peran | Hak Akses Utama |
 |------|----------------|
-| **Pengunjung** | Melihat event, mencari, memfilter, memberi komentar |
+| **Pengunjung** | Melihat event, mencari, memfilter |
 | **Kontributor (Publik)** | Mengajukan event baru melalui formulir tanpa login |
-| **Admin** | Login, CRUD event & kategori, moderasi komentar & event |
+| **Admin** | Login, CRUD event & kategori, moderasi event |
 
 ---
 
@@ -45,7 +45,7 @@ Sistem berjalan sebagai aplikasi web dan dapat diakses melalui perangkat desktop
 - Pencarian event berdasarkan kata kunci.
 - Filter event berdasarkan kategori.
 - Pengurutan event (misal: terbaru → terlama).
-- Halaman Detail Event + komentar/ulasan.
+- Halaman Detail Event.
 - Pengajuan event melalui form publik.
 
 ### 4.2 Fitur Admin
@@ -53,7 +53,6 @@ Sistem berjalan sebagai aplikasi web dan dapat diakses melalui perangkat desktop
 - Manajemen Event (CRUD).
 - Manajemen Kategori (CRUD).
 - Moderasi event yang diajukan publik (Setujui / Tolak).
-- Moderasi komentar publik.
 
 ### 4.3 Fitur Otomatis
 - Sistem otomatis mengubah status event menjadi **"Telah Selesai"** setelah tanggal penyelenggaraan terlewati.
