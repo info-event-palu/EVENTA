@@ -80,7 +80,7 @@ Sistem berjalan sebagai aplikasi web dan dapat diakses melalui perangkat desktop
 ![USE_CASE](docs/diagram/USE_CASE.jpg)
 
 ## 📌 User Interface
-![UI Figma](User_Interface/FIGMA.jpg)
+![FIGMA](User_Interface/FIGMA.jpg)
 
 https://www.figma.com/design/NfSE7xUBCUyaB2XGkeeWZW/%F0%9F%8E%93-UNI-EVENTS-%E2%80%93-Complete-University-Event-Web---Mobile-Design-Template--Community-?node-id=0-1&t=flgAaJKanPInGted-1
 
