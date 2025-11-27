@@ -74,7 +74,7 @@ Sistem berjalan sebagai aplikasi web dan dapat diakses melalui perangkat desktop
 ---
 
 ## 📌 ERD Sistem Info Event Palu
-![ERD Sistem](docs/diagram/ERD.jpg)
+![ERD Sistem](docs/diagram/ERD.png)
 
 ## 📌 USE CASE
 ![USE_CASE](docs/diagram/USE_CASE.jpg)
